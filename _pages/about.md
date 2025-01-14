@@ -19,4 +19,4 @@ social: false # includes social icons at the bottom of the page
 
 I am Data Science major at Wellesley College. This semester I will be taking Foundations of Computer Systems and Intro to Machine Learning (if I get in). Last semester I took Linear Algebra and Probability, and last summer I worked in [Prof. Freddy Nguyen's](https://www.freddynguyen.org/people/) group developing data pipelines, visualizations, and query tests.
 
-Outside the 1s and 0s, I fence for Wellesley's NCAA team and am learning Russian.
+Outside the 1s and 0s, I fence and learn languages. I am an avid anki user.
